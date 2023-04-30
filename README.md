@@ -1,6 +1,6 @@
 # Projeto da disciplina Back-End do Grau Técnico
 
-Projeto feito em **dupla** com **Assuero Mota**.
+Projeto feito em **dupla** com **Vinicius Olivera**.
 
 O projeto se chama **ProvaBot** e consiste na criação de um chat para a aplicação de provas. Utilizaremos **React.js** e **Node.js**, juntamente com o banco de dados **MySQL**, para a realização do projeto.
 
